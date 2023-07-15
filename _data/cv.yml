@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Vaisakh SHaj
+      value: Vaisakh Shaj
     - name: Languages
       value: English, Malayalam, Hindi
 
@@ -52,6 +52,18 @@
     - title: <a href="https://github.com/vaisakh-shaj/cleverhans-imagenet">cleverhans-iamgenet</a>
       year: 2018-2019
 
+  contents:
+    - title: <a href="https://github.com/vaisakh-shaj/DeepReinforcementLearning">Deep RL</a>
+      year: 2018-2019
+
+  contents:
+    - title: <a href="https://github.com/vaisakh-shaj/BayesianMachineLearning">Deep RL</a>
+      year: 20202-2021
+  
+  
+
+  
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -61,7 +73,7 @@
 
 
 - title: Academic Interests
-  type: Machine Learning
+  type: nested_list
   contents:
     - title: Machine Learning Under Non Stationarity
       items: 
