@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vaisakh-shaj
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - vaisakh-shaj/DeepReinforcementLearning
+  - vaisakh-shaj/cleverhans-imagenet
+  - ALRhub/HiP-RSSM
+  - ALRhub/action-conditional-rkn
+  - vaisakh-shaj/BayesianMachineLearning
+
