@@ -1,0 +1,34 @@
+- title: "Variational Learning of Dynamics Models
+with Spatial Latent Variables"
+  path: /assets/project/final-reports/project1.pdf
+  authors:
+    - name: "Andreas Boltres"
+  year: 2021
+    
+
+- title: "Meta-Learning Time Series Classification With Application To Video Games"
+  path: /assets/project/final-reports/project2.pdf
+  authors:
+    - name: "Martin Herault"
+  year: 2021
+
+- title: "Hybrid Inverse Dynamics Models for Robot Impedance Control"
+  path: /assets/project/final-reports/project2.pdf
+  authors:
+    - name: "Moritz Benno Reuss"
+  year: 2021
+  cosupervisors:
+    - name: "Philipp Becker"
+    - name: "Niels van Duijkeren"
+    - name: "Robert Krug"
+
+- title: "Development of a Hydraulic Excavator Arm Control Using Reinforcement Learning"
+  path: /assets/project/final-reports/project2.pdf
+  authors:
+    - name: "Markus Baumann"
+  year: 2022
+  cosupervisors:
+    - name: "Demir Ozan"
+    - name: "Luiz Douat"
+
+
