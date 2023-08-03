@@ -17,9 +17,9 @@ We invite submissions related (but not limited) to the following topics:
 
 ## Important Dates
 
-*   Submission Deadline: `TBD`
-*   Acceptance Notification: `TBD`
-*   Camera-Ready Deadline for Accepted Submissions: `TBD`
+*   Submission Deadline: September 29th, 2023
+*   Acceptance Notification: October 27th, 2023
+<!-- *   Camera-Ready Deadline for Accepted Submissions: `TBD` -->
 
 ## Submission Details
 
