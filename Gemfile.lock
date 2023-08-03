@@ -106,6 +106,7 @@ GEM
       kramdown (~> 2.0)
     latex-decode (0.4.0)
     libv8-node (16.10.0.0-arm64-darwin)
+    libv8-node (16.10.0.0-x86_64-linux)
     liquid (4.0.3)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -123,6 +124,8 @@ GEM
     multi_xml (0.6.0)
     namae (1.1.1)
     nokogiri (1.13.9-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.9-x86_64-linux)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -149,6 +152,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   feedjira
