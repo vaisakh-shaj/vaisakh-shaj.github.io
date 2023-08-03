@@ -9,4 +9,7 @@ nav_order: 2
 
 <br>
 
-Coming soon!
+<div style="text-align: center;">
+  <img src="/assets/img/todo-v2.png" alt="Coming soon!" />
+  <p>Coming soon!</p>
+</div>

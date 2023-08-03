@@ -2,18 +2,27 @@
 layout: page
 permalink: /submissions/
 title: Call for Papers
-description: We invite researcher in diffusion models and relared theory and applications to submit their latest work to our workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
+description: We invite researchers in diffusion models to submit their latest work to our workshop. Accepted papers will be presented as posters during the poster sessions. Selected works will also be highlighted as contributed talks.
 nav: true
 nav_order: 3
 ---
-
-<br>
-
 ## Topics
 
-We invite submissions related (but not limited) to the following topics:
-
-*   `TBD`
+We invite researchers from machine learning and related fields to submit their latest work on theory and applications of diffusion models to the workshop. We encourage submissions related (but not limited) to the following topics:
+* Theory and methodology of diffusion models
+  - Stochastic differential equations for generative models
+  - Probabilistic inference, variational inference
+  - Novel training methodology or architectures
+  - Improved/accelerated diffusion model inference
+  - Limitations and drawbacks of diffusion models
+  - Theoretical properties of diffusion models
+* Applications of diffusion models
+  - Generation of images, video, audio, molecules, motion, etc.
+  - Conditional generation, guidance, controllability, and personalization
+  - 3D applications of diffusion models
+  - Solving inverse problems
+  - Image/video editing
+  - Science and engineering applications
 
 ## Important Dates
 
