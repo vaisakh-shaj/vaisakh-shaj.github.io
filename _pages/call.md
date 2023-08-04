@@ -34,7 +34,7 @@ We invite researchers from machine learning and related fields to submit their l
 
 To ensure your submission is considered, please adhere to the following guidelines:
 
-* **Formatting Instructions**: Use the following **[style files](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles)** when preparing your submission. Papers need to be prepared and submitted as a single file: We accept **short (4 pages)** papers, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
+* **Formatting Instructions**: Use the following **[style files](/assets/diffusion_workshop_style_files.zip)** when preparing your submission. Papers need to be prepared and submitted as a single file: We accept **short (4 pages)** papers, with unlimited pages for references and appendix in both cases. The maximum size of submissions is 50 MB. While your submission can contain a supplement or appendix, please note that reviewers are not obliged to review supplementary material.
 *   **Reviews**: The review process will be double-blind. All **submissions must be anonymized** and the leakage of any identification information is prohibited.
 *   **Dual Submission Policy**: If the submission was accepted at prior conferences, journal, or workshops (including Neurips 2023), it should be extended to be considered for acceptance at our workshop. Papers that are currently under review are welcome to be submitted to our workshop.
 *   If your paper is accepted it will not appear in any proceedings, journal, or book. We will post the list of accepted papers on the workshop website.
