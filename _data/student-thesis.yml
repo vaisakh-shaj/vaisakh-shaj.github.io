@@ -22,6 +22,7 @@ with Spatial Latent Variables"
     - name: "Niels van Duijkeren"
     - name: "Robert Krug"
 
+
 - title: "Development of a Hydraulic Excavator Arm Control Using Reinforcement Learning"
   path: /assets/project/final-reports/project2.pdf
   authors:
@@ -30,5 +31,25 @@ with Spatial Latent Variables"
   cosupervisors:
     - name: "Demir Ozan"
     - name: "Luiz Douat"
+
+- title: Reinforcement Learning based Robot Waypoints Tracking Error Optimization
+  path: /assets/project/final-reports/project2.pdf
+  authors:
+    - name: "Yinglin Yuan"
+  year: 2022
+  cosupervisors:
+    - name: "Chenwei Sun"
+    - name: "Moritz Reuss"
+
+
+- title: Model-Based Deep Reinforcement Learning Under Life-Long Non-Stationarity
+  path: /assets/project/final-reports/project2.pdf
+  authors:
+    - name: "Stefan Geyer"
+  year: 2022
+
+
+
+
 
 
