@@ -22,6 +22,6 @@ Welcome to my personal website. I am a researcher interested in the advancing al
 
 At present for my PhD, I focus on building probablisitc recurrent state space models and learning world models with it. In general I am interested in developing algorithms that can learn continually in a non-stationary environment and can solve long horizon tasks. I use neural network architectures that are backed by probalisitic principles to build these models. 
 
-**Diversity and Inclusion Statement:** I care deeply about making work places more diverse and inclusion of women, LGBTQ+, disabled and neurodivergent folks in AI research. I believe innovation thrives under diversity in perspectives and life experienes.
+**Diversity and Inclusion Statement:** I care deeply about making work places more diverse and the inclusion of women, LGBTQ+, disabled and neurodivergent folks in AI research. I believe innovation thrives under diversity in perspectives and life experiences.
 
 
