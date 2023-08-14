@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctral Student at KIT, Germany
+subtitle: Doctoral Student at KIT, Germany
 
 profile:
   align: right
