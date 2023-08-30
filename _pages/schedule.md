@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 | **Time (CST)** | **Event** |
-| :-----:   | :----- |
+| :------:   | :------- |
 | 8:50 - 9:00 | **Introduction and opening remarks** |
 | 9:00 - 9:30 | **Keynote** - Tali Dekel: Pretrained diffusion is all we need: a journey beyond training distribution |
 | 9:30 - 10:00 | **Keynote** - Brian Trippe & Jason Yim: De novo design of protein structure and function with RFdiffusion|
