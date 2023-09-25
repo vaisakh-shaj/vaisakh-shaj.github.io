@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**PhD work "Multi Time Scale World Models" accepted in [Neurips 2023](https://nips.cc/) as a <span style="color:blue"> Spotlight </span>(Top 3% of all submitted papers.)**. 
+**PhD work "Multi Time Scale World Models" accepted in [Neurips 2023](https://nips.cc/) as a <span style="color:green"> Spotlight (Top 3% of all submitted papers.) </span>**. 
