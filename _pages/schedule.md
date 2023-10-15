@@ -20,7 +20,7 @@ nav_order: 2
 | 14:00 - 14:30 | **Keynote** - Yang Song: Consistency Models|
 | 14:30 - 15:00 | **Contributed Talks** - 3 talks of 10 minutes each|
 | 15:00 - 15:15 | **Coffee Break**|
-| 15:15 - 16:15 | **Invited Lightning Talks** <br/> Holden Lee: Convergence theory for diffusion models <br/> Hyungjin Chung: Adapting diffusion models on out-of-distribution measurements for inverse problems <br/> Shuang Li: Compositional Visual Generation <br/> Gowthami Somepalli:  Understanding and mitigating |
+| 15:15 - 16:15 | **Invited Lightning Talks** <br/> Holden Lee: Convergence theory for diffusion models <br/> Hyungjin Chung: Adapting diffusion models for inverse problems <br/> Shuang Li: Compositional Visual Generation <br/> Gowthami Somepalli:  Understanding and mitigating |
 | 16:15 - 17:15 | **Poster Session 2** |
 | 17:15 - 17:30 | **Closing Remarks + Award Reveal** |
 {: .table}
