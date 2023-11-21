@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
+**Friday 15th December 2023**
 
 | **Time (CST)** | **Event** |
 | :------:   | :------- |
