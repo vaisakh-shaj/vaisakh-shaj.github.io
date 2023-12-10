@@ -17,7 +17,7 @@ nav_order: 2
 | 10:15 - 11:15 | **Poster Session 1** |
 | 11:15 - 12:00 | **Panel Discussion**: Arash Vahdat, Ruiqi Gao, Tim Salimans, Robin Rombach|
 | 12:00 - 13:30 | **Lunch Break** |
-| 13:30 - 14:00 | **Keynote** - Sayak Paul: Controlling Text-to-Image Diffusion Models |
+| 13:30 - 14:00 | **Keynote** - Karsten Kreis: Beyond Static Pixels: From Video to Text-to-4D Synthesis with Diffusion Models |
 | 14:00 - 14:30 | **Keynote** - Yang Song: Consistency Models|
 | 14:30 - 15:00 | **Contributed Talks** - 3 talks of 10 minutes each|
 | 15:00 - 15:15 | **Coffee Break**|
