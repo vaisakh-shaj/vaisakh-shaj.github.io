@@ -22,6 +22,6 @@ Welcome to my personal website. I am an AI researcher currently pursuing my PhD 
 
 My [doctoral thesis](https://arxiv.org/abs/2404.16078) focussed on building "World models With Hierarchical Temporal Abstractions" based on probabilistic and Bayesian principles. My primary interests lie in both understanding human intelligence and replicating its capabilities within AI agents, using mathematical and computational tools. In this regard I am primarily intersted in sub-areas on Machine Learning like Meta/Continual Leanring (Learning Under Non-Stationarity), Hierarchical Modelling, Model Based Reinforcement Learning and Planning. I employ neural network architectures grounded in probabilistic principles to develop these models.
 
-**🌈Diversity and Inclusion Statement:** I care deeply about making work places more diverse and the inclusion of women, LGBTQ+ and under-represented minorities in AI research. I believe innovation/creativity thrives under diversity in perspectives and life experiences.
+**🌈Diversity and Inclusion Statement:** I care deeply about making work places more diverse and the inclusion of women, LGBTQ+ and under-represented minorities in AI research. 
 
 
