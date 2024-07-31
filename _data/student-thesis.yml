@@ -1,4 +1,4 @@
-
+# Master Theses
 - title: "Variational Learning of Dynamics Models with Spatial Latent Variables"
   path: /assets/project/final-reports/project1.pdf
   authors:
@@ -65,6 +65,7 @@
     - name: "Shuheng Zhang"
   year: 2024
 
+# Bachelor Theses
 - title: "Benchmarking Transformer Models for Time Series Forecasting"
   path: /assets/project/final-reports/project10.pdf
   authors:
@@ -96,8 +97,3 @@
   year: 2023
   cosupervisors:
     - name: "Saleh Zadeh"
-
-
-
-
-
