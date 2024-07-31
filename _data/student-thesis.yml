@@ -1,10 +1,9 @@
-- title: "Variational Learning of Dynamics Models
-with Spatial Latent Variables"
+
+- title: "Variational Learning of Dynamics Models with Spatial Latent Variables"
   path: /assets/project/final-reports/project1.pdf
   authors:
     - name: "Andreas Boltres"
   year: 2021
-    
 
 - title: "Meta-Learning Time Series Classification With Application To Video Games"
   path: /assets/project/final-reports/project2.pdf
@@ -13,7 +12,7 @@ with Spatial Latent Variables"
   year: 2021
 
 - title: "Hybrid Inverse Dynamics Models for Robot Impedance Control"
-  path: /assets/project/final-reports/project2.pdf
+  path: /assets/project/final-reports/project3.pdf
   authors:
     - name: "Moritz Benno Reuss"
   year: 2021
@@ -22,9 +21,8 @@ with Spatial Latent Variables"
     - name: "Niels van Duijkeren"
     - name: "Robert Krug"
 
-
 - title: "Development of a Hydraulic Excavator Arm Control Using Reinforcement Learning"
-  path: /assets/project/final-reports/project2.pdf
+  path: /assets/project/final-reports/project4.pdf
   authors:
     - name: "Markus Baumann"
   year: 2022
@@ -32,8 +30,8 @@ with Spatial Latent Variables"
     - name: "Demir Ozan"
     - name: "Luiz Douat"
 
-- title: Reinforcement Learning based Robot Waypoints Tracking Error Optimization
-  path: /assets/project/final-reports/project2.pdf
+- title: "Reinforcement Learning based Robot Waypoints Tracking Error Optimization"
+  path: /assets/project/final-reports/project5.pdf
   authors:
     - name: "Yinglin Yuan"
   year: 2022
@@ -41,13 +39,63 @@ with Spatial Latent Variables"
     - name: "Chenwei Sun"
     - name: "Moritz Reuss"
 
-
-- title: Model-Based Deep Reinforcement Learning Under Life-Long Non-Stationarity
-  path: /assets/project/final-reports/project2.pdf
+- title: "Model-Based Deep Reinforcement Learning Under Life-Long Non-Stationarity"
+  path: /assets/project/final-reports/project6.pdf
   authors:
     - name: "Stefan Geyer"
   year: 2022
 
+- title: "Model-based Deep RL for Non-Stationary Environments"
+  path: /assets/project/final-reports/project7.pdf
+  authors:
+    - name: "Emiliyan Gospodinov"
+  year: 2023
+
+- title: "Model-Based Episodic Reinforcement Learning with Transformer World Models"
+  path: /assets/project/final-reports/project8.pdf
+  authors:
+    - name: "Ruben Jacob"
+  year: 2023
+  cosupervisors:
+    - name: "Philipp Becker"
+
+- title: "Role of Hierarchy in Learning World Models"
+  path: /assets/project/final-reports/project9.pdf
+  authors:
+    - name: "Shuheng Zhang"
+  year: 2024
+
+- title: "Benchmarking Transformer Models for Time Series Forecasting"
+  path: /assets/project/final-reports/project10.pdf
+  authors:
+    - name: "Nicolas Braun"
+  year: 2023
+  cosupervisors:
+    - name: "Saleh Zadeh"
+
+- title: "Multi Scale Architectures for Time Series Forecasting Tasks"
+  path: /assets/project/final-reports/project11.pdf
+  authors:
+    - name: "Severin Mahler"
+  year: 2023
+  cosupervisors:
+    - name: "Saleh Zadeh"
+
+- title: "Benchmarking Transformer World Models"
+  path: /assets/project/final-reports/project12.pdf
+  authors:
+    - name: "Thorben Colmes"
+  year: 2023
+  cosupervisors:
+    - name: "Saleh Zadeh"
+
+- title: "World Modelling with Structured State Space Models"
+  path: /assets/project/final-reports/project13.pdf
+  authors:
+    - name: "Jannic Bach"
+  year: 2023
+  cosupervisors:
+    - name: "Saleh Zadeh"
 
 
 
