@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**PhD work "Hidden Parameter Recurrent State Space Models For Changing Dynamics Scenarios" accepted in [International Conference On Learning Representations(ICLR) 2022](https://iclr.cc)**. 
+PhD work **"Hidden Parameter Recurrent State Space Models For Changing Dynamics Scenarios"** accepted in [ICLR 2022](https://iclr.cc). 

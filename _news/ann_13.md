@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Attending [NeurIPS 2023](https://nips.cc/) in New Orleans, US**. 
+Attending [NeurIPS 2023](https://nips.cc/) in New Orleans, US. 

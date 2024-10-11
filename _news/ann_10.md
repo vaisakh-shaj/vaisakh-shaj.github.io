@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**PhD work "Action Conditional Recurrent Kalman Networks For Forward and Inverse Dynamics Learning" accepted in [Conference on Robot Learning(CoRL) 2020](https://www.robot-learning.org)**. [Video](https://www.youtube.com/watch?v=fNHtSqLYLFs)
+PhD work **"Action Conditional Recurrent Kalman Networks For Forward and Inverse Dynamics Learning"** accepted in [Conference on Robot Learning(CoRL) 2020](https://www.robot-learning.org). [Video](https://www.youtube.com/watch?v=fNHtSqLYLFs)
