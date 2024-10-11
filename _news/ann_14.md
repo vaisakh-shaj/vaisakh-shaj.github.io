@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New workshop paper **"Adaptive World Models: Learning Behaviors by Latent Imagination Under Non-Stationarity** accepted at [NeurIPS 2024 Adaptive Foundation Model Workshop](https://adaptive-foundation-models.org/). 
+Our new paper **"Adaptive World Models: Learning Behaviors by Latent Imagination Under Non-Stationarity** accepted at [NeurIPS 2024 Adaptive Foundation Models Workshop](https://adaptive-foundation-models.org/). 
