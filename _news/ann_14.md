@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper **"Adaptive World Models and Non-Stationary RL** accepted at [NeurIPS 2024 Adaptive Foundation Models Workshop](https://adaptive-foundation-models.org/). 
+Our new paper **Adaptive World Models and Non-Stationary RL** accepted at [NeurIPS 2024 Adaptive Foundation Models Workshop](https://adaptive-foundation-models.org/). 
