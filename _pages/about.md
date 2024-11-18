@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Doctoral Student at KIT, Germany
+subtitle: Postdoctoral Researcher at the University Of Edinburgh, UK
 
 profile:
   align: right
   image: avatar.JPG
   address: >
-    <p>Room 215 </p>
-    <p>Adenauerring 4, Gebäude 50.21,</p>
-    <p>Karlsruhe, Germany 76139</p>
+    <p>Room 234 , Informatics Forum</p>
+    <p>Edinburgh, Scotland</p>
+    <p>United Kingdom 76139</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
