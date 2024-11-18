@@ -10,7 +10,7 @@ profile:
   address: >
     <p>Room 234 , Informatics Forum</p>
     <p>Edinburgh, Scotland</p>
-    <p>United Kingdom 76139</p>
+    <p>United Kingdom EH89AB</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
