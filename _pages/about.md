@@ -22,7 +22,17 @@ Welcome to my personal website. I am a Postdoctoral Researcher in AI and Machine
 
 I did my PhD in Machine Learning and Robotics under [Prof Gerhard Neumann](https://alr.anthropomatik.kit.edu/21_65.php) at the [ALR Lab](https://alr.anthropomatik.kit.edu/index.php), Karlsruhe Institute Of Technology. Before that I was a Data Scientist at the cybersecurity firm McAfee (Intel Security). Previously I worked with Intel for 2 years. I hold a post graduate degree in [Machine Learning and Computing](https://www.iist.ac.in/departments/mathematics-academics) from the [Indian Institute of Space Science and Technology](https://www.iist.ac.in/).
 
-My [doctoral thesis](https://arxiv.org/abs/2404.16078) focussed on building "World models With Hierarchical Temporal Abstractions" based on probabilistic and Bayesian principles. My primary interests lie in both understanding human intelligence and replicating its capabilities within AI agents, using mathematical and computational tools. In this regard I am primarily intersted in sub-areas on Machine Learning like Meta/Continual Leanring (Learning Under Non-Stationarity), Hierarchical Modelling, Model Based Reinforcement Learning and Planning. I employ neural network architectures grounded in probabilistic principles to develop these models.
+My [doctoral thesis](https://arxiv.org/abs/2404.16078) focussed on building "World models With Hierarchical Temporal Abstractions" based on probabilistic and Bayesian principles.
+
+## Research Interests
+
+<div style="float: right; margin-left: 15px; width: 300px;">
+  <img src="/assets/img/research_venn.png" alt="Research Interests">
+</div>
+
+My research interests and expertise lie at the intersection of Deep Learning, Probabilistic Modelling, and Control Theory. My goal is to build scalable neural network models grounded in concepts from these fields. Currently, my application focus is on building efficient, controllable, and safe large language models and intelligent agents.
+
+Other research directions I am curious about include Hierarchical Modelling and Learning under Non-Stationarity (Meta/Continual Learning etc).
 
 **🌈Diversity and Inclusion Statement:** I care deeply about making work places more diverse and the inclusion of women, LGBTQ+ and under-represented minorities in AI research. 
 
