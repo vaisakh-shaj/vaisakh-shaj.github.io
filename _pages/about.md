@@ -30,7 +30,7 @@ My [doctoral thesis](https://arxiv.org/abs/2404.16078) focussed on building "Wor
   <img src="/assets/img/research_venn.png" alt="Research Interests">
 </div>
 
-My research interests and expertise lie at the intersection of Deep Learning, Probabilistic Modelling, and Control Theory. My goal is to build scalable neural network models grounded in concepts from these fields. Currently, my application focus is on building efficient, controllable, and safe large language models and intelligent agents.
+My research interests and expertise lie at the intersection of Deep Learning, Probabilistic Modelling, and Control Theory. My goal is to build scalable neural network models grounded in concepts from these fields. Currently, my application focus is on building efficient, controllable, and safe large language models (LLMs) and intelligent agents.
 
 Other research directions I am curious about include Hierarchical Modelling and Learning under Non-Stationarity (Meta/Continual Learning etc).
 
