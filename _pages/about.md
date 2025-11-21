@@ -26,13 +26,15 @@ My [doctoral thesis](https://arxiv.org/abs/2404.16078) focussed on building "Wor
 
 ## Research Interests
 
-<div style="float: right; margin-left: 15px; width: 300px;">
-  <img src="/assets/img/ResearchTheme.jpg" alt="Research Interests">
+<div style="float: left; margin-right: 20px; margin-bottom: 10px; width: 280px;">
+    {% include figure.html path="assets/img/ResearchTheme.jpg" class="img-fluid rounded z-depth-1" %}
 </div>
 
 My research interests and expertise lie at the intersection of Deep Learning, Probabilistic Modelling, and Control Theory. My goal is to build scalable neural network models grounded in concepts from these fields. Currently, my application focus is on building efficient, controllable, and safe large language models (LLMs) and intelligent agents.
 
 Other research directions I am curious about include Hierarchical Modelling and Learning under Non-Stationarity (Meta/Continual Learning etc).
+
+<div style="clear: both;"></div>
 
 **🌈Diversity and Inclusion Statement:** I care deeply about making work places more diverse and the inclusion of women, LGBTQ+ and under-represented minorities in AI research. 
 
