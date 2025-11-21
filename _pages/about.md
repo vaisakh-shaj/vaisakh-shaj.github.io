@@ -32,7 +32,7 @@ My [doctoral thesis](https://arxiv.org/abs/2404.16078) focussed on building "Wor
 
 My research interests and expertise lie at the intersection of Deep Learning, Probabilistic Modelling, and Control Theory. My goal is to build scalable neural network models grounded in concepts from these fields. Currently, my application focus is on building efficient, controllable, and safe large language models (LLMs) and intelligent agents.
 
-Other research directions I am curious about include Hierarchical Modelling, Long Horizon Reasoning/Control, and Learning under Non-Stationarity (Meta/Continual Learning etc).
+Other research directions have explored and am still curious about include Hierarchical Modelling, Long Horizon Reasoning/Control, and Learning under Non-Stationarity (Meta/Continual Learning etc).
 
 <div style="clear: both;"></div>
 
