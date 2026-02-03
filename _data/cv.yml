@@ -2,89 +2,113 @@
   type: map
   contents:
     - name: Full Name
-      value: Vaisakh Shaj
+      value: Vaisakh Shaj Kumar
     - name: Languages
-      value: English, Malayalam, Hindi
+      value: English, Malayalam, Hindi, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD (Ongoing)
-      institution: Karlsruhe Institute Of Technology, Germany
-      year: 2020-2024 (expected)
+    - title: PhD in Machine Learning and Robotics
+      institution: Karlsruhe Institute of Technology, Germany
+      year: 2019-2024
       description:
-        - Proababilistic Machine Learning.
-        - Machine Learning For Control.
-        
+        - Probabilistic machine learning
+        - World models and model based reinforcement learning
+        - Thesis on hierarchical world models
+        - CGPA:1.0(HighestPossibleGrade)
     - title: MTech in Machine Learning and Computing
-      institution: Indian Institute of Space Science and Technology (IIST)
-      year: 2016
+      institution: Indian Institute of Space Science and Technology, India
+      year: 2014-2016
       description:
-        - Pattern Recognition
-        - Data Mining
-        - Reinforcment Learning
-        - Evolutionary and Natural Computing
-        - Optimization Methods
-        - Discrete Mathematics
-        - Applied Statistics
-        - Computer Modelling and Simulation
+        - Pattern recognition and data mining
+        - Reinforcement learning
+        - Probabilistic and statistical methods
+    - title: BTech in Electrical Engineering
+      institution: University of Kerala, India
+      year: 2009-2013
+      description:
+        - CGPA 8.1 out of 10
 
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher
+      institution: University of Edinburgh, United Kingdom
+      year: 2024-Present
+      description:
+        - Bayesian methods for safe and controllable language models
+        - Uncertainty aware and probabilistic inference
+        - Developing Bayesian primitives for safe and controllable language models
+        - Improving steerability robustness and uncertainty using probabilistic and control methods
+
+      
+    - title: PhD Researcher
+      institution: Karlsruhe Institute of Technology, Germany
+      year: 2019-2024
+      description:
+        - Sequential and probabilistic world models
+        - Decision making under uncertainty
+        - Teaching and student supervision
+    - title: Research Assistant
+      institution: Indian Institute of Science, Bangalore
+      year: 2018-2019
+      description:
+        - Computer vision research on knowledge distillation and adversarial robustness with publications at ICML 2019 and CVPR 2019 workshops
+
+
     - title: Data Scientist
-      institution: McAfee (Intel Security)
-      year: 2016-2018
+      institution: McAfee
+      year: 2017-2018
       description:
-        - Deep Learning For Security Applications.
-        - Adversarial Machine Learning.
-        
-    - title: Research Intern
+        - Adversarial machine learning for security
+        - Anomaly detection systems
+        - Built probabilistic sequential world models for dynamics learning and decision making under uncertainty
+
+    - title: Researcher and Graduate Intern
       institution: Intel
-      year: 2015
+      year: 2015-2017
       description:
-        - Machine Learning For Audio Understanding.
-        - Sparse Machine Learning.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/vaisakh-shaj/cleverhans-imagenet">cleverhans-iamgenet</a>
-      year: 2018-2019
-
-  contents:
-    - title: <a href="https://github.com/vaisakh-shaj/DeepReinforcementLearning">Deep RL</a>
-      year: 2018-2019
-
-  contents:
-    - title: <a href="https://github.com/vaisakh-shaj/BayesianMachineLearning">Deep RL</a>
-      year: 20202-2021
-  
-  
-
-  
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2018
-      items: 
-        - McAfee CEO Innovator of the year finalist (top 5 out of 2500 employees) 
+        - Malware detection using deep learning
+        - Sparse machine learning for audio analysis
+        - Developed and deployed a deep neural network based dynamic malware classification system for security applications
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Machine Learning Under Non Stationarity
-      items: 
-        - Multi Task / Meta Learning.
-        - Continual / Lifelong Leanring.
-    - title: Foundation Models in Machine Leanring.
+    - title: Probabilistic Machine Learning
       items:
-        - Hierarchical World Models.
-        - Large Sequential Models.
+        - Bayesian inference and filtering
+        - Uncertainty estimation and calibration
+    - title: Sequential and World Models
+      items:
+        - Hierarchical world models
+        - Model based reinforcement learning
+    - title: Foundation Models
+      items:
+        - Language models
+        - Safe and controllable agents
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Magna Cum Laude with highest doctoral grade at KIT
+    - year: 2018
+      items:
+        - McAfee CEO Innovator of the Year finalist
+    - year: 2017
+      items:
+        - Department of Space fellowship
+    - year: 2013
+      items:
+        - GATE examination 98th percentile
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Reading, Cooking, Fitness etc.
+    - Reading
+    - Cooking
+    - Fitness
