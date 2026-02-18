@@ -1,0 +1,90 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Vaisakh Shaj
+    - name: Languages
+      value: English, Malayalam, Hindi
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD (Ongoing)
+      institution: Karlsruhe Institute Of Technology, Germany
+      year: 2020-2024 (expected)
+      description:
+        - Proababilistic Machine Learning.
+        - Machine Learning For Control.
+        
+    - title: MTech in Machine Learning and Computing
+      institution: Indian Institute of Space Science and Technology (IIST)
+      year: 2016
+      description:
+        - Pattern Recognition
+        - Data Mining
+        - Reinforcment Learning
+        - Evolutionary and Natural Computing
+        - Optimization Methods
+        - Discrete Mathematics
+        - Applied Statistics
+        - Computer Modelling and Simulation
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Data Scientist
+      institution: McAfee (Intel Security)
+      year: 2016-2018
+      description:
+        - Deep Learning For Security Applications.
+        - Adversarial Machine Learning.
+        
+    - title: Research Intern
+      institution: Intel
+      year: 2015
+      description:
+        - Machine Learning For Audio Understanding.
+        - Sparse Machine Learning.
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/vaisakh-shaj/cleverhans-imagenet">cleverhans-iamgenet</a>
+      year: 2018-2019
+
+  contents:
+    - title: <a href="https://github.com/vaisakh-shaj/DeepReinforcementLearning">Deep RL</a>
+      year: 2018-2019
+
+  contents:
+    - title: <a href="https://github.com/vaisakh-shaj/BayesianMachineLearning">Deep RL</a>
+      year: 20202-2021
+  
+  
+
+  
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2018
+      items: 
+        - McAfee CEO Innovator of the year finalist (top 5 out of 2500 employees) 
+
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Machine Learning Under Non Stationarity
+      items: 
+        - Multi Task / Meta Learning.
+        - Continual / Lifelong Leanring.
+    - title: Foundation Models in Machine Leanring.
+      items:
+        - Hierarchical World Models.
+        - Large Sequential Models.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Reading, Cooking, Fitness etc.
