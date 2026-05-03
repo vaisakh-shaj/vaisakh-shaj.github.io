@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Paper **"Kalman Linear Attention: Parallel Bayesian Filters For Efficient Language Modelling"** accepted at the **[International Conference on Machine Learning 2026](https://icml.cc)**. [arXiv](https://arxiv.org/abs/2602.10743)
+🎉 Paper **"Kalman Linear Attention: Parallel Bayesian Filters For Efficient Language Modelling"** accepted at the **[International Conference on Machine Learning 2026](https://icml.cc)**. Joint work with [Cameron Barker](https://cameronbarker.uk/), [Aidan Scannell](https://aidanscannell.com/), [Andras Szecsenyi](https://aszecsenyi.github.io), [Elliot J. Crowley](https://elliotjcrowley.com/) and [Amos Storkey](https://homepages.inf.ed.ac.uk/amos/). [arXiv](https://arxiv.org/abs/2602.10743)
