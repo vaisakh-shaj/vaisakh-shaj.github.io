@@ -89,9 +89,14 @@ let transTheme = () => {
 
 let initTheme = (theme) => {
   if (theme == null || theme == "null") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      theme = "dark";
+    const pageDefault = document.querySelector('meta[name="default-theme"]');
+    if (pageDefault && pageDefault.content) {
+      theme = pageDefault.content;
+    } else {
+      const userPref = window.matchMedia;
+      if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+        theme = "dark";
+      }
     }
   }
 
