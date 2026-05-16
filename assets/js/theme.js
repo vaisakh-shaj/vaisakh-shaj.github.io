@@ -93,10 +93,7 @@ let initTheme = (theme) => {
     if (pageDefault && pageDefault.content) {
       theme = pageDefault.content;
     } else {
-      const userPref = window.matchMedia;
-      if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-        theme = "dark";
-      }
+      theme = "light";
     }
   }
 
