@@ -72,6 +72,19 @@ blockquote {
   text-align: center;
 }
 
+// Math should inherit the page's text color so it auto-flips between
+// light and dark themes. The !important is needed to beat KaTeX/MathJax
+// internal stylesheets that otherwise leave math text black on dark mode.
+// Inline \textcolor{...} styles on inner spans (specificity 1,0,0,0)
+// still win for the colored noise/uncertainty terms because the rule
+// below targets the *outer container only*, not its descendants.
+.katex,
+.katex-display,
+mjx-container,
+.MathJax {
+  color: var(--global-text-color) !important;
+}
+
 // Caption
 
 .caption {
